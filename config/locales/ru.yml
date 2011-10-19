@@ -39,6 +39,8 @@ ru:
           save_as_draft: Сохранить как черновик
           published_at: Дата публикации
           event_date: Дата события
+          custom_url: Кастомный урл
+          custom_url_help: Generate the url for the blog post from this text instead of the title.
         index:
           no_items_yet: 'Записи в блоге отстутствуют. Нажмите "%{create}", чтобы добавить первую запись.'
         uncategorized:
