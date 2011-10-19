@@ -38,6 +38,7 @@ en:
           toggle_advanced_options: Click to access meta tag settings and menu options
           save_as_draft: Save as Draft
           published_at: Publish Date
+          event_date: Event Date
           custom_url: Custom Url
           custom_url_help: Generate the url for the blog post from this text instead of the title.
           copy_body: Copy Post Body to Teaser
