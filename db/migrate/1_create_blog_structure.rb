@@ -6,7 +6,6 @@ class CreateBlogStructure < ActiveRecord::Migration
       t.text :body
       t.boolean :draft
       t.datetime :published_at
-      t.datetime :event_date
       t.timestamps
     end
 
